@@ -43,7 +43,7 @@ If you use the code in this repository _and_ the associated data set, please cit
 
 #### Paper
 More information on theory, methods and results can be found in the accompanying paper by Blarr et al. (Nature Scientific Reports 2024):
-- [Deep convolutional generative adversarial network for generation of computed tomography images of discontinuously carbon fiber reinforced polymer microstructures](doi.org/XX.XXXXX/XXXX) (DOI: XX.XXXXX/XXXX)
+- [Deep convolutional generative adversarial network for generation of computed tomography images of discontinuously carbon fiber reinforced polymer microstructures](https://doi.org/10.1038/s41598-024-59252-8) (DOI: 10.1038/s41598-024-59252-8)
 
 #### Data set
 The data set used for this work was published separately:
@@ -166,9 +166,11 @@ BibTex:
 @article{Blarr2024,
   title={Deep convolutional generative adversarial network for generation of computed tomography images of discontinuously carbon fiber reinforced polymer microstructures},
   author={Blarr, Juliane; Klinder, Steffen; Liebig, Wilfried V.; Inal, Kaan; Kärger, Luise; Weidenmann, Kay A.},
-  journal={Nature Scientific Reports},
+  journal={Scientific Reports},
+  volume={14},
+  pages={9641}
   year={2024},
-  doi = {XX.XXXXX/XXXX}
+  doi = {10.1038/s41598-024-59252-8}
 }
 ```
 #### Dataset

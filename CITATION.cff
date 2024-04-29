@@ -24,12 +24,11 @@ preferred-citation:
 
   title: "Deep convolutional generative adversarial network for generation of computed tomography images of heterogeneous low-contrast microstructures"
   version: 2.0.4
-  doi: 10.5281/zenodo.XXXX
-  date-released: 2024-XX-XX
-  journal: "Nature Scientific Reports"
-  month: 1
-  start: 1 # First page number
-  end: 1 # Last page number
+  doi: 10.1038/s41598-024-59252-8
+  date-released: 2024-04-26
+  journal: "Scientific Reports"
+  month: 4
+  start: 9641 # First page number
   issue: 1
-  volume: 1
+  volume: 14
   year: 2024

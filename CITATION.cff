@@ -22,7 +22,7 @@ preferred-citation:
     given-names: "Kay A."
     orcid: "https://orcid.org/0000-0002-6529-6514"
 
-  title: "Deep convolutional generative adversarial network for generation of computed tomography images of heterogeneous low-contrast microstructures"
+  title: "Deep convolutional generative adversarial network for generation of computed tomography images of discontinuously carbon fiber reinforced polymer microstructures"
   version: 2.0.4
   doi: 10.1038/s41598-024-59252-8
   date-released: 2024-04-26

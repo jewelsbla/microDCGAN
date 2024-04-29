@@ -165,9 +165,10 @@ BibTex:
 ```
 @article{Blarr2024,
   title={Deep convolutional generative adversarial network for generation of computed tomography images of discontinuously carbon fiber reinforced polymer microstructures},
-  author={Blarr, Juliane; Klinder, Steffen; Liebig, Wilfried V.; Inal, Kaan; Kärger, Luise; Weidenmann, Kay A.},
+  author={Blarr, Juliane; Klinder, Steffen; Liebig, Wilfried V.; Inal, Kaan; K{\"a}rger, Luise; Weidenmann, Kay A.},
   journal={Scientific Reports},
   volume={14},
+  number={1},
   pages={9641}
   year={2024},
   doi = {10.1038/s41598-024-59252-8}
